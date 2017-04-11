@@ -15,6 +15,10 @@ Content:
 Requirements:
   * astropy is required to run the Python scripts, we use it for table and FITS handling
 
+Todo:
+  * Replacement for ngc2000names.fits
+  * Test with astrometry
+
 [1] https://github.com/mattiaverga/OpenNGC
 
 [2] https://github.com/dstndstn/astrometry.net
