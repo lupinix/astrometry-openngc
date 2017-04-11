@@ -5,7 +5,7 @@ This repository contains scripts to create FITS tables etc. to use the OpenNGC c
 
 Licensing:
   * License for the code is 3-clause BSD, same license as used by astrometry.net, check file LICENSE
-  * License for the data is CC-BY-SA-4.0 as for the OpenNGC catalog itself, check file LICENSE-OpenNGC
+  * License for the data is CC-BY-SA-4.0 as for the OpenNGC catalog itself, check file LICENSE_OpenNGC
 
 Content:
   * create_ngc_fits_table.py – script to generate FITS tables from NGC.csv
